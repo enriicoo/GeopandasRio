@@ -1,5 +1,5 @@
 # GeopandasRio
-Projetos de geovisualização com o mapa do Brasil e Rio de Janeiro
+Projetos de geovisualização com os mapas do Brasil e Rio de Janeiro
 
 # Metodologia
 Essas análises de dados têm como objetivo facilitar a manipulação de dados sobre o Brasil e regionalmente sobre o Estado e cidade do Rio de Janeiro.
