@@ -10,5 +10,6 @@ Neste trabalho foram usadas as seguintes bases de dados:
 - Shapefile dos Bairros do Rio - Disponível em "https://www.data.rio/datasets/limite-bairro"
 
 # Bibliotecas utilizadas
-Pandas: https://pandas.pydata.org/ Matplotlib: https://matplotlib.org/ GeoPandas: https://geopandas.org/
-
+  - Pandas: https://pandas.pydata.org/ 
+  - Matplotlib: https://matplotlib.org/ 
+  - GeoPandas: https://geopandas.org/
