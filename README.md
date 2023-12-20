@@ -1,4 +1,4 @@
-# GeopandasRio
+# Geopandas - Projetos pessoais
 Projetos de geovisualização com os mapas do Brasil e Rio de Janeiro
 
 # Metodologia
